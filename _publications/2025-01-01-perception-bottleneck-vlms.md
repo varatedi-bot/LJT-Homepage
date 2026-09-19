@@ -10,4 +10,4 @@ category: "manuscripts"
 
 ## Abstract
 
-First author paper published on arXiv. Code available at: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
+First author paper published on arXiv.
