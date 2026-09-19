@@ -10,4 +10,4 @@ category: "conferences"
 
 ## Abstract
 
-First author paper published at EMNLP 2024. Code available at: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+First author paper published at EMNLP 2024.
